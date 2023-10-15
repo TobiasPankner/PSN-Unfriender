@@ -17,7 +17,7 @@ Python script to mass delete PSN friends.
  
 ## Run the script
 
-> :warning: **Treat the npsso token like your password!**
+ :warning: **Treat the npsso token like your password!**
 
  1. Rename the [configuration.example.json](configuration.example.json) file to `configuration.json`
  2. Log into the [Playstation website](https://www.playstation.com/)
