@@ -174,6 +174,6 @@ if __name__ == '__main__':
         exit(1)
 
     print(f"\nRemoving {len(to_remove)} friends...")
-    for friend in tqdm(to_remove[:5]):
+    for friend in tqdm(to_remove):
         friend_id = friend[0]
         remove_friend(auth, friend_id)
