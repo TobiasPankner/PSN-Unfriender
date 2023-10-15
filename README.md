@@ -8,6 +8,10 @@
 
 Python script to mass delete PSN friends.
 
+![ezgif com-crop](https://github.com/TobiasPankner/PSN-Unfriender/assets/39444749/6d7c3b5d-b097-4f76-82d0-4003ea962791)
+
+Short video tutorial on how to set this up: https://www.youtube.com/watch?v=CfxuU57w3Tk
+
 ## Prerequisites
   
  - Python 3 ([Download](https://www.python.org/downloads/)) 
