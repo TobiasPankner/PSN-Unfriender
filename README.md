@@ -21,7 +21,7 @@ Python script to mass delete PSN friends.
 
  1. Rename the [configuration.example.json](configuration.example.json) file to `configuration.json`
  2. Log into the [Playstation website](https://www.playstation.com/)
- 3. In a new tab, visit this page: https://ca.account.sony.com/api/v1/ssocookie
+ 3. Visit this page: https://ca.account.sony.com/api/v1/ssocookie
  4. Copy the npsso token and paste it in the `configuration.json` file
  5. Install dependencies: `pip install -r requirements.txt`
  6. Run the script `python unfriender.py`
