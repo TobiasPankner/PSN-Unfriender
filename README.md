@@ -1,4 +1,4 @@
-# Letterboxd-to-IMDb
+# PSN Unfriender
 [![GitHub stars](https://img.shields.io/github/stars/TobiasPankner/PSN-Unfriender.svg?style=social&label=Star)](https://GitHub.com/TobiasPankner/PSN-Unfriender/stargazers/)
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3TU2XDBK2JFU4&source=url)
 
@@ -7,8 +7,6 @@
 - [Configuration options](#configuration-options)
 
 Python script to mass delete PSN friends.
-
-**Video tutorial** on how to use this: https://www.youtube.com/watch?v=KF7cfdUTEgw
 
 ## Prerequisites
   
